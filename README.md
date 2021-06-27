@@ -1,9 +1,9 @@
 [
   {
     "نام": "Instagram",
-    "آیکون": "https://s18.picofile.com/file/8437333784/PicsArt_06_27_05_24_29.png",
+    "آیکون": "https://s19.picofile.com/file/8437334242/Instagram_cover_min.jpg",
     "نام برنامه": "Instagram",
-    "تصویر": "https://s18.picofile.com/file/8437333784/PicsArt_06_27_05_24_29.png",
-    "تصویر2": "https://s18.picofile.com/file/8437333784/PicsArt_06_27_05_24_29.png"
+    "تصویر": "https://s19.picofile.com/file/8437334242/Instagram_cover_min.jpg.png",
+    "تصویر2": "https://s19.picofile.com/file/8437334242/Instagram_cover_min.jpg"
   }
 ]
